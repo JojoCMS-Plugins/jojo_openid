@@ -1,0 +1,10 @@
+#openid_url, .openid_url {
+  background: #fff url('../images/openid-icon-small.gif') scroll 0pt 50% no-repeat;
+  padding-left: 18px;
+}
+
+#openid_link, .openid_link {
+  text-align: right;
+  background: #fff url('../images/openid-icon-small.gif') right center no-repeat;
+  padding-right: 18px;
+}
